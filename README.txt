@@ -2,7 +2,7 @@
 
 * *Date Created*: 13 MAR 2025
 * *Last Modification Date*: 13 MAR 2025
-* *Netlify URL*: <http://example.com/>
+* *Netlify URL*: <https://phucthan.netlify.app/>
 * *GitLab URL*: <https://git.cs.dal.ca/than/csci-3172/>
 
 
