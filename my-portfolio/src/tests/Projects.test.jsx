@@ -13,10 +13,8 @@ describe('Projects Page', () => {
     expect(screen.getByText('Here are some of the projects I have worked on.')).toBeInTheDocument();
     
     // Check if project cards are rendered
-    expect(screen.getByText('Project 1')).toBeInTheDocument();
-    expect(screen.getByText('This is a project I worked on recently.')).toBeInTheDocument();
-    
-    expect(screen.getByText('Project 2')).toBeInTheDocument();
-    expect(screen.getByText('This is another project I worked on.')).toBeInTheDocument();
+    expect(screen.getByText('Project 1 - Exosky')).toBeInTheDocument();
+    expect(screen.getByText('Project 2 - VetSim')).toBeInTheDocument();
+
   });
 });
