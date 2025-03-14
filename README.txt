@@ -16,7 +16,6 @@
 * [React](https://react.dev/reference/react) - The web framework used
 * [Vite](https://vite.dev/) - Building front-end server
 * [React-bootstrap](https://react-bootstrap.netlify.app/docs/getting-started/introduction) - Used to styling
-* [Jest] (https://jestjs.io/docs/getting-started) - Testing
 * [Vitest] (https://vitest.dev/guide/) - Testing
 
 
