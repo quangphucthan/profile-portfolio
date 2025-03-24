@@ -1,0 +1,20 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "name": "SkyPainters",
+            "description": "Sky Painters is an interactive web application that allows users to experience the night sky from the perspective of exoplanets across the Milky Way.",
+            "url": "https://github.com/EduardKakosyan/exosky_nasa",
+            "languages": ["React", "Three.js", "TypeScript", "Tailwind CSS", "Python", "PostgreSQL", "Docker"],
+            "authors": ["Eduard Kakosyan", "Phuc Than", "Huy Huynh", "Hao Tang", "Adnan Abdulrahim"]
+        },
+        {
+            "id": 2,
+            "name": "Password Generator",
+            "description": "Create random password.",
+            "url": "https://github.com/quangphucthan/password-generator",
+            "languages": ["Python"],
+            "authors": ["Phuc Than"]
+        }
+    ]
+}
